@@ -1,0 +1,28 @@
+body {
+    background-color: aqua;
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin: 30px 50px 70px;
+    color: black;
+}
+
+nav ul {
+list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 30px;
+}
+
+nav ul li a {
+ text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: bisque;
+}

@@ -27,3 +27,15 @@ nav ul li a {
 nav ul li a:hover{
     color: bisque;
 }
+
+
+.furniture_collection {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+article {
+    background-color: aliceblue;
+box-shadow: 10px 10px 2px rgb(29, 85, 85);
+}
